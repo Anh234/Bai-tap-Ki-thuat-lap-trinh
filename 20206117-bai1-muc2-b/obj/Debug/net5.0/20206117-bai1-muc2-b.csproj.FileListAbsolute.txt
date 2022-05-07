@@ -1,0 +1,16 @@
+C:\Users\ADMIN\source\repos\20206117-bai1-muc2-b\bin\Debug\net5.0\20206117-bai1-muc2-b.exe
+C:\Users\ADMIN\source\repos\20206117-bai1-muc2-b\bin\Debug\net5.0\20206117-bai1-muc2-b.deps.json
+C:\Users\ADMIN\source\repos\20206117-bai1-muc2-b\bin\Debug\net5.0\20206117-bai1-muc2-b.runtimeconfig.json
+C:\Users\ADMIN\source\repos\20206117-bai1-muc2-b\bin\Debug\net5.0\20206117-bai1-muc2-b.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\20206117-bai1-muc2-b\bin\Debug\net5.0\20206117-bai1-muc2-b.dll
+C:\Users\ADMIN\source\repos\20206117-bai1-muc2-b\bin\Debug\net5.0\ref\20206117-bai1-muc2-b.dll
+C:\Users\ADMIN\source\repos\20206117-bai1-muc2-b\bin\Debug\net5.0\20206117-bai1-muc2-b.pdb
+C:\Users\ADMIN\source\repos\20206117-bai1-muc2-b\obj\Debug\net5.0\20206117-bai1-muc2-b.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\20206117-bai1-muc2-b\obj\Debug\net5.0\20206117-bai1-muc2-b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\20206117-bai1-muc2-b\obj\Debug\net5.0\20206117-bai1-muc2-b.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\20206117-bai1-muc2-b\obj\Debug\net5.0\20206117-bai1-muc2-b.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\20206117-bai1-muc2-b\obj\Debug\net5.0\20206117-bai1-muc2-b.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\20206117-bai1-muc2-b\obj\Debug\net5.0\20206117-bai1-muc2-b.dll
+C:\Users\ADMIN\source\repos\20206117-bai1-muc2-b\obj\Debug\net5.0\ref\20206117-bai1-muc2-b.dll
+C:\Users\ADMIN\source\repos\20206117-bai1-muc2-b\obj\Debug\net5.0\20206117-bai1-muc2-b.pdb
+C:\Users\ADMIN\source\repos\20206117-bai1-muc2-b\obj\Debug\net5.0\20206117-bai1-muc2-b.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "20206117-bai1-muc2-d/1.0.0": {
+        "runtime": {
+          "20206117-bai1-muc2-d.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "20206117-bai1-muc2-d/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
