@@ -1,0 +1,16 @@
+A:\C#-  nộp bài thực hành 2\20206117-bài 4-1.1\bin\Debug\net5.0\20206117-bài 4-1.1.exe
+A:\C#-  nộp bài thực hành 2\20206117-bài 4-1.1\bin\Debug\net5.0\20206117-bài 4-1.1.deps.json
+A:\C#-  nộp bài thực hành 2\20206117-bài 4-1.1\bin\Debug\net5.0\20206117-bài 4-1.1.runtimeconfig.json
+A:\C#-  nộp bài thực hành 2\20206117-bài 4-1.1\bin\Debug\net5.0\20206117-bài 4-1.1.runtimeconfig.dev.json
+A:\C#-  nộp bài thực hành 2\20206117-bài 4-1.1\bin\Debug\net5.0\20206117-bài 4-1.1.dll
+A:\C#-  nộp bài thực hành 2\20206117-bài 4-1.1\bin\Debug\net5.0\ref\20206117-bài 4-1.1.dll
+A:\C#-  nộp bài thực hành 2\20206117-bài 4-1.1\bin\Debug\net5.0\20206117-bài 4-1.1.pdb
+A:\C#-  nộp bài thực hành 2\20206117-bài 4-1.1\obj\Debug\net5.0\20206117-bài 4-1.1.csproj.AssemblyReference.cache
+A:\C#-  nộp bài thực hành 2\20206117-bài 4-1.1\obj\Debug\net5.0\20206117-bài 4-1.1.GeneratedMSBuildEditorConfig.editorconfig
+A:\C#-  nộp bài thực hành 2\20206117-bài 4-1.1\obj\Debug\net5.0\20206117-bài 4-1.1.AssemblyInfoInputs.cache
+A:\C#-  nộp bài thực hành 2\20206117-bài 4-1.1\obj\Debug\net5.0\20206117-bài 4-1.1.AssemblyInfo.cs
+A:\C#-  nộp bài thực hành 2\20206117-bài 4-1.1\obj\Debug\net5.0\20206117-bài 4-1.1.csproj.CoreCompileInputs.cache
+A:\C#-  nộp bài thực hành 2\20206117-bài 4-1.1\obj\Debug\net5.0\20206117-bài 4-1.1.dll
+A:\C#-  nộp bài thực hành 2\20206117-bài 4-1.1\obj\Debug\net5.0\ref\20206117-bài 4-1.1.dll
+A:\C#-  nộp bài thực hành 2\20206117-bài 4-1.1\obj\Debug\net5.0\20206117-bài 4-1.1.pdb
+A:\C#-  nộp bài thực hành 2\20206117-bài 4-1.1\obj\Debug\net5.0\20206117-bài 4-1.1.genruntimeconfig.cache
