@@ -1,0 +1,61 @@
+// Pham Ngoc Anh - 20206117
+
+
+#include <iostream>
+#include <stdio.h>
+using namespace std;
+void swap(int &x, int &y)
+{
+    int temp = x;
+    x = y;
+    y = temp;
+}
+
+void bubbleSort(int arr[], int n)
+{
+    int i, j;
+    bool haveSwap = false;
+    for (i = 0; i < n-1; i++){
+        haveSwap = false;
+        for (j = 0; j < n-i-1; j++){
+            if (arr[j] > arr[j+1]){
+                swap(arr[j], arr[j+1]);
+                haveSwap = true; 
+            }
+        }
+        if(haveSwap == false){
+            break;
+        }
+    }
+}
+  
+void printArray(int arr[], int size)
+{
+    int i;
+    for (i=0; i < size; i++){
+        cout << arr[i];
+        cout<<"\t";
+      }
+}
+ 
+int main()
+{
+    int n;
+    do{
+        cout << "\n Nhap vao so luong phan tu co trong mang: ";
+        cin >> n;
+    }while(n <= 0);
+     
+    int a[n];
+     
+    for(int i = 0;i < n;i++){
+        cout<<"a["<<i<<"]=";
+       cin >> a[i];
+    };
+ 
+    bubbleSort(a, n);
+ 
+    cout<<"Mang sau khi duoc sap xep: \n";
+    printArray(a, n);
+ 
+}
